@@ -2,7 +2,7 @@
 
 Goal is to revisit the python concepts for better understanding !!!
 
-Topics: \
+Topics:\
 1. Backtracking \
 2. Bit manipulation \
 3. Meet in the middle \
